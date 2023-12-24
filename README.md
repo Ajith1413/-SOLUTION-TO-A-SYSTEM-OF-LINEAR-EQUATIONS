@@ -30,7 +30,7 @@ print(c)
 ```
 
 ## Output:
-![image](https://github.com/Ajith1413/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/139842524/21215126-f0ea-4ead-b4fd-f707ac435b48)
+![Alt text](image.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
